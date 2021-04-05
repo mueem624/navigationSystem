@@ -9,9 +9,9 @@ The functionality of the Navigation system is as follows
 
 (3) The GPS Sensor functionality getCurrentPosition() is simulated by manually entering a position via the keyboard.
 
-(4) CNavigationSystem::enterRoute(): Add some POI’s and waypoints to your route. You may create your own trip.
+(4) CNavigationSystem::enterRoute(): Add some POI’s and waypoints to route. User may create his own trip.
 
-(5) CNavigationSystem::printRoute(): Print all POI’s and Waypoints of your route.
+(5) CNavigationSystem::printRoute(): Print all POI’s and Waypoints of the route.
 
 (6) CNavigationSystem::printDistanceCurPosNextPoi(): Get the current position from the GPS sensor and search for the closest Point of Interest.
 
