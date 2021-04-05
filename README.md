@@ -1,5 +1,6 @@
 # navigationSystem
 Navigation System (Core system)
+
 The functionality of the Navigation system is as follows
 
 (1) The Navigation System contains the 3 major components GPS sensor, Route and a Point of Interest Database.
